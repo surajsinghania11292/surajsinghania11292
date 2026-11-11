@@ -6,7 +6,7 @@
 *Building event-driven microservices, real-time protocols, and scalable web architectures.*
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-suraj--portfolio--99.vercel.app-004743?style=for-the-badge&logo=vercel&logoColor=white)](https://suraj-portfolio-99.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-1b9a65250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-57278244a/)
 [![Email](https://img.shields.io/badge/Email-surajsinghania11292@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajsinghania11292@gmail.com)
 
 </div>
@@ -60,11 +60,12 @@ Beyond full-stack web applications, I design and build **high-concurrency distri
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajsinghania11292&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suraj's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsinghania11292&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+[![Suraj's GitHub Streak](https://streak-stats.demolab.com?user=surajsinghania11292&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/surajsinghania11292)
+
 </div>
 
 ---
@@ -72,20 +73,3 @@ Beyond full-stack web applications, I design and build **high-concurrency distri
 <div align="center">
   <sub>Designed & Developed by Suraj Kumar · Bengaluru, India</sub>
 </div>
-
-## Hi there 👋
-
-<!--
-**surajsinghania11292/surajsinghania11292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
